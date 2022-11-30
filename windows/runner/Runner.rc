@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "apparchitecture" "\0"
+            VALUE "FileDescription", "uiscreen" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "apparchitecture" "\0"
+            VALUE "InternalName", "uiscreen" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "apparchitecture.exe" "\0"
-            VALUE "ProductName", "apparchitecture" "\0"
+            VALUE "OriginalFilename", "uiscreen.exe" "\0"
+            VALUE "ProductName", "uiscreen" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
